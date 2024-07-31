@@ -1,5 +1,7 @@
 # Salifort_Motors
 
+*Employee Retention Project*
+
 ## Overview
 
 This project was completed as part of the Google Advanced Data Analytics Capstone project. The capstone project is comprehensive because it requires skills and knowledge developed across the whole program, including:
